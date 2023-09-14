@@ -431,8 +431,6 @@ body {
 .container-footer {
   display: flex;
   align-items: baseline;
-  margin-right: 120px;
-  gap: 120px;
 }
 .footer-social-list {
   gap: 16px;
@@ -452,4 +450,7 @@ body {
 .footer-link-item:hover,
 .footer-link-item:focus {
   background-color: #31d0aa;
+}
+.container-footer-logo {
+  margin-right: 120px;
 }
