@@ -430,9 +430,9 @@ body {
 }
 .container-footer {
   display: flex;
-  gap: 120px;
-  margin-right: 120px;
   align-items: baseline;
+  margin-right: 120px;
+  gap: 120px;
 }
 .footer-social-list {
   gap: 16px;
